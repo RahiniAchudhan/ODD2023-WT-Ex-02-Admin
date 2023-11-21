@@ -35,7 +35,7 @@ step 8: add some users according to the user.
 
 
 
-#OUTPUT:
+# OUTPUT:
 
 ![Screenshot (60)](https://github.com/RahiniAchudhan/ODD2023-WT-Ex-02-Admin/assets/145742838/0451fe8c-d015-4a42-aa03-790ae511a0dc)
 
@@ -44,7 +44,7 @@ step 8: add some users according to the user.
 
 
 
-#RESULT:
+# RESULT:
   
    
    
